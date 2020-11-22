@@ -39,7 +39,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ### Stand van zaken
 
 - De voorbereiding voor de Front-End opdracht ging mij goed af, vooral de CSS gedeelte heb ik snel onder controle gekregen. 
-Als het gaat om javascript of animaties in mijn CSS heb ik nog veel te leren. -
+Als het gaat om javascript of animaties in mijn CSS heb ik nog veel te leren.
 
 **Screenshot(s):**
 
