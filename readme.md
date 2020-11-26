@@ -6,9 +6,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. www.bol.com
 
 
 
@@ -43,17 +41,17 @@ Als het gaat om javascript of animaties in mijn CSS heb ik nog veel te leren.
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent met korte uitleg-
+- Mijn printscreen knop werkt niet. Ik kan geen printscreen maken. -
 
 ### Agenda voor meeting
 
 -samen met je groepje opstellen-
 
-| student 1      | student 2          | student 3    | student 4        |
+| Ugur Yildiz      | student 2          | student 3    | student 4        |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Hoe kan ik het | en dit             | en ik dit    | en dan ik dat    |
+| beste coderen  | dit als er tijd is | nog een punt | dit wil ik zeker |
+|                 | ...                | ...          | ...              |
 
 ### Verslag van meeting
 
