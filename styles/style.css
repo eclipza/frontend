@@ -3,3 +3,27 @@
   box-sizing:border-box;  
 }
 
+header {
+  background-color: lightblue;
+  position: absolute;
+  left: 0; top: 0; right: 0;
+  font-size: 1.5em;
+}
+
+:first-of-type ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+:first-of-type li {
+  position: flex;
+  margin-left: 1em;
+  background-color: grey;
+  padding: 0.5em;
+}
+
+main {
+  
+}
+
